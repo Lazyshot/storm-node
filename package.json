@@ -1,0 +1,4 @@
+{
+"name" : "storm-node",
+"main": "./lib/index.js"
+}
